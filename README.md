@@ -3,8 +3,7 @@
 ![github-banner](https://drive.google.com/file/d/1yXYDYq6WGfPOtaufCPdM-u_LKraFmXsj/view?usp=sharing)
 
 - 👨🏻‍💻 alias: @haiderkhursheedk
-- 💼 **founder & chairmain engineer @ lixtanetwork | ex- komunity**
-- ☀️ **gsoc '25 @ google deepmind | gsoc '26 mentor @ circuitverse**
+- 💼 **founder & chairmain @ lixtanetwork | ex- komunity**
 - 💻 currently tinkering with voice and llms
 - 🔎 primarily into startup, products and ai research
 - 📧 reach out: `haider (at) lixtanetwork (dot) com` → [click to email](mailto:haider@lixtanetwork.com)
