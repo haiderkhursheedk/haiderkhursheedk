@@ -1,18 +1,80 @@
-# 💫 About Me:
-🌱 I’m currently building Tech Startups<br><br>💬 Ask me about Android, Game Development, Tech and Startups<br><br>📫 How to reach me haider@lixtanetwork.com
+## hey there! 👋 **Haider Khursheed**
 
----
-[![](https://visitcount.itsvg.in/api?id=haiderkhursheedk&icon=8&color=7)](https://visitcount.itsvg.in)
+![github-banner](https://drive.google.com/file/d/1yXYDYq6WGfPOtaufCPdM-u_LKraFmXsj/view?usp=sharing)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haiderkhursheedk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haiderkhursheedk/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/khaiderksh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@haiderkhursheedk) 
+- 👨🏻‍💻 alias: @haiderkhursheedk
+- 💼 **founder & chairmain engineer @ lixtanetwork | ex- komunity**
+- ☀️ **gsoc '25 @ google deepmind | gsoc '26 mentor @ circuitverse**
+- 💻 currently tinkering with voice and llms
+- 🔎 primarily into startup, products and ai research
+- 📧 reach out: `haider (at) lixtanetwork (dot) com` → [click to email](mailto:haider@lixtanetwork.com)
+- 🎉 socials: @haiderkhursheedk mainly → [twitter](https://x.com/khaiderksh) / [linkedin](https://www.linkedin.com/in/haiderkhursheedk/)
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=haiderkhursheedk&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=haiderkhursheedk&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=haiderkhursheedk&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+🏆 highlights:
+- 🥈 mentored in 3+ hackathons
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=haiderkhursheedk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🗂️ check out my [portfolio](https://haiderkhursheed.com) 👀
+<br> 
+🟢 **open to working on exciting projects in applied ai, software engineering** · <a href="https://haiderkhursheed/cal">let's talk →</a>
+
+<br>
+
+## here's my tech stack ⚙️
+
+<table>
+  <tr>
+    <td><b>Programming:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=py,go,c,cpp,ruby,rust,java" alt="python, go, c, c++, ruby, rust, java" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Frontend:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,next" alt="html, css, javascript, typescript, react, next.js" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>UI Libraries:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwind,picocss,materialui,shadcn" alt="bootstrap, tailwind css, pico css, material ui, shadcn ui" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Backend:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=fastapi,flask,django,nodejs,expressjs,nestjs,rails" alt="fastapi, flask, django, node.js, express.js, nestjs, rails" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Database:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,mysql,postgresql,sqlite,redis,supabase,pocketbase" alt="mongodb, mysql, postgresql, sqlite, redis, supabase, pocketbase" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>AI / ML:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=pytorch,huggingface,streamlit,gradio,pydantic" alt="pytorch, hugging face, streamlit, gradio, pydantic" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>LLM & Vector Infra:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=ollama,llamaindex,langchain,pinecone,qdrant,n8n,mcp" alt="ollama, llamaindex, langchain, pinecone, qdrant, n8n, model context protocol" height="40"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Tools:</b></td>
+    <td>
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,bash,linux,postman,docker,playwright,selenium" alt="git, bash, linux, postman, docker, playwright, selenium" height="40"/>
+    </td>
+  </tr>
+</table>
