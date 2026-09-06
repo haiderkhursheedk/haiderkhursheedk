@@ -1,6 +1,6 @@
 ## hey there! 👋 **Haider Khursheed**
 
-![github-banner](https://drive.google.com/file/d/1yXYDYq6WGfPOtaufCPdM-u_LKraFmXsj/view?usp=sharing)
+![github-banner](https://github.com/haiderkhursheedk/haiderkhursheedk/blob/main/haiderkhursheed.png)
 
 - 👨🏻‍💻 alias: @haiderkhursheedk
 - 💼 **founder & chairmain @ lixtanetwork | ex- komunity**
