@@ -14,6 +14,6 @@
 
 🗂️ check out my [portfolio](https://haiderkhursheed.com) 👀
 <br> 
-🟢 **open to working on exciting projects in applied ai, software engineering** · <a href="https://haiderkhursheed/cal">let's talk →</a>
+🟢 **open to working on exciting projects in applied ai, software engineering** · <a href="https://haiderkhursheedk/cal">let's talk →</a>
 
 <br>
