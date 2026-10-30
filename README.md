@@ -12,7 +12,7 @@
  <!-- 🏆 highlights:
 - 🥈 mentored in 3+ hackathons -->
 
-🗂️ check out my [portfolio](https://haiderkhursheed.com) 👀
+🗂️ find me at [haiderkhursheed,com](https://haiderkhursheed.com) 👀
 <br> 
 🟢 **open to working on exciting projects in applied ai, software engineering** · <a href="https://cal.com/haiderkhursheed/30-min-meeting?overlayCalendar=true">let's talk →</a>
 
