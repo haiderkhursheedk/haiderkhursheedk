@@ -9,8 +9,8 @@
 - 📧 reach out: `haider (at) lixtanetwork (dot) com` → [click to email](mailto:haider@lixtanetwork.com)
 - 🎉 socials: @haiderkhursheedk mainly → [twitter](https://x.com/khaiderksh) / [linkedin](https://www.linkedin.com/in/haiderkhursheedk/)
 
-🏆 highlights:
-- 🥈 mentored in 3+ hackathons
+ <!-- 🏆 highlights:
+- 🥈 mentored in 3+ hackathons -->
 
 🗂️ check out my [portfolio](https://haiderkhursheed.com) 👀
 <br> 
