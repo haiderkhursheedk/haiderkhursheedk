@@ -16,5 +16,3 @@
 <br> 
 <br> 
 🟢 **open to working on exciting projects in applied ai, software engineering** · <a href="https://cal.com/haiderkhursheed/30-min-meeting?overlayCalendar=true">let's talk →</a>
-
-<br>
